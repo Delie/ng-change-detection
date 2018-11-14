@@ -1,6 +1,6 @@
 # ng-change-detection
 
-Test project to play around with Angular change-detection.
+Angular change-detection test project.
 
 ## Development server
 
